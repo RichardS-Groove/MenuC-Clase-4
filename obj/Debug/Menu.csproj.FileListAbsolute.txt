@@ -1,0 +1,12 @@
+D:\Descargas\MenuCS-master\MenuCS-master\bin\Debug\MenuC.exe.config
+D:\Descargas\MenuCS-master\MenuCS-master\bin\Debug\MenuC.exe
+D:\Descargas\MenuCS-master\MenuCS-master\bin\Debug\MenuC.pdb
+D:\Descargas\MenuCS-master\MenuCS-master\obj\Debug\MenuC.Clientes.resources
+D:\Descargas\MenuCS-master\MenuCS-master\obj\Debug\MenuC.Listados.resources
+D:\Descargas\MenuCS-master\MenuCS-master\obj\Debug\MenuC.Menu.resources
+D:\Descargas\MenuCS-master\MenuCS-master\obj\Debug\MenuC.Properties.Resources.resources
+D:\Descargas\MenuCS-master\MenuCS-master\obj\Debug\MenuC.Proveedores.resources
+D:\Descargas\MenuCS-master\MenuCS-master\obj\Debug\Menu.csproj.GenerateResource.cache
+D:\Descargas\MenuCS-master\MenuCS-master\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+D:\Descargas\MenuCS-master\MenuCS-master\obj\Debug\MenuC.exe
+D:\Descargas\MenuCS-master\MenuCS-master\obj\Debug\MenuC.pdb
